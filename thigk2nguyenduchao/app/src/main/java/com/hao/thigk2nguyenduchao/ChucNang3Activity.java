@@ -20,11 +20,11 @@ public class ChucNang3Activity extends AppCompatActivity {
 
         list = new ArrayList<>();
 
-        list.add(new DiaDiem("Hon Mun", "Nha Trang", R.drawable.honmun));
+        list.add(new DiaDiem("Hòn Mun", "Nha Trang", R.drawable.honmun));
         list.add(new DiaDiem("Vinpearl", "Nha Trang", R.drawable.vinpearl));
-        list.add(new DiaDiem("Thap Ba", "Nha Trang", R.drawable.thapba));
-        list.add(new DiaDiem("Doc Let", "Nha Trang", R.drawable.doclet));
-        list.add(new DiaDiem("Hon Tam", "Nha Trang", R.drawable.hontam));
+        list.add(new DiaDiem("Tháp Bà", "Nha Trang", R.drawable.thapba));
+        list.add(new DiaDiem("Dốc Lêt", "Nha Trang", R.drawable.doclet));
+        list.add(new DiaDiem("Hòn Tằm", "Nha Trang", R.drawable.hontam));
 
         DiaDiemAdapter adapter = new DiaDiemAdapter(list);
         recyclerView.setAdapter(adapter);
