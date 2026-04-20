@@ -8,27 +8,27 @@
 
     <EditText
         android:id="@+id/edDai"
-        android:hint="Nhap chieu dai"
+        android:hint="Nhap Chiều Dài"
         android:inputType="numberDecimal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
     <EditText
         android:id="@+id/edRong"
-        android:hint="Nhap chieu rong"
+        android:hint="Nhập Chiều Rộng"
         android:inputType="numberDecimal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
     <Button
         android:id="@+id/btnTinh"
-        android:text="Tinh"
+        android:text="Tính"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
     <TextView
         android:id="@+id/tvKQ"
-        android:text="Ket qua"
+        android:text="Kết Quả"
         android:textSize="18sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
