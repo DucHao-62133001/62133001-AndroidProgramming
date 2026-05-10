@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800302376642",
+    "project_id": "android-project-c3270",
+    "storage_bucket": "android-project-c3270.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800302376642:android:03c8b7c98c2424f316fd5b",
+        "android_client_info": {
+          "package_name": "vn.edu.hao.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIFJvet0RmID___SQZuVb_i2z2ANJ8vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
