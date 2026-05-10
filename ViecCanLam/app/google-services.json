@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293478261930",
+    "project_id": "vieccanlam-5f460",
+    "storage_bucket": "vieccanlam-5f460.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293478261930:android:0376966d205e65ba6c5cd3",
+        "android_client_info": {
+          "package_name": "vn.edu.hao.vieccanlam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9QT9fnDj0KdZA56w9Kj30hZ6gA9LMxDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
